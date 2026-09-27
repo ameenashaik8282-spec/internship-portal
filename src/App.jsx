@@ -2,7 +2,7 @@ import { useState } from "react";
 
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
-import Internships from "./components/Internships";
+import Internships from "./components/internships";
 import Applications from "./components/Applications";
 import Profile from "./components/Profile";
 import Login from "./components/Login";
